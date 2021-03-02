@@ -6,7 +6,7 @@
 % Optionally, compute partial derivatives wrt the input parameters.
 %
 % This version sets the signal variance to 1, the noise to 0.01 and their
-% respective lengthscales to zero. This results in only the lengthscales,
+% respective gradients to zero. This results in only the lengthscales,
 % inputs, and outputs being trained.
 %
 %
